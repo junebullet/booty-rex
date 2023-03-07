@@ -1,0 +1,116 @@
+
+
+
+html {
+    margin: 0;
+    text-align: center;
+}
+
+
+
+body {
+    background: black;
+    font-family: Montserrat;
+    font-size: 30px;
+    color: white;
+}
+
+.topphoto {
+    background-image: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/64819190_10157244316064932_2295551696341827584_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=AqMAsU5bIX4AX95OsBb&_nc_ht=scontent-iad3-1.xx&oh=00_AfAWZ3Qxjh8psh6MbrfV8k3l9irRoWGRgvmMU4Y2Lymr6A&oe=642B799E");
+    background-size: cover;
+    height: 500px;
+    filter: grayscale(100%);
+}
+
+nav {
+    margin: 0 auto;
+    border-bottom: 1px dotted black;
+}
+
+li {
+    display: block;
+    text-decoration: none;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+li a {
+    display: block;
+    text-decoration: none;
+    padding-left: auto;
+    padding-right: auto;
+    color: peachpuff;
+}
+
+li a:hover {
+    color: red;
+  }
+
+
+  .logo {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-family: Gluten;
+    font-size: 100px;
+}
+
+.title {
+    font-family: Gluten;
+    font-size: 50px;
+}
+
+
+.main {
+    padding-bottom: 60px;
+}
+
+
+
+.about {
+    padding-bottom: 60px;
+    padding-top: 60px;
+    border-bottom: 1px dotted black;
+}
+
+.performers {
+    font-display: center;
+    padding-bottom: 60px;
+    padding-top: 30px;
+    border-bottom: 1px dotted black;
+}
+
+
+
+.events {
+    padding-bottom: 60px;
+    padding-top: 30px;
+    border-bottom: 1px dotted black;
+}
+
+
+.connect {
+    padding-bottom: 60px;
+    padding-top: 60px;
+    border-bottom: 1px dotted black;
+}
+
+.photo {
+    background-image: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.6435-9/64479594_10157244314984932_6706452756799946752_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=e-hiqe1coRMAX_FDP4n&_nc_ht=scontent-iad3-1.xx&oh=00_AfBV15JPjcgMWqbRUU-d-sN-va-ym7yGMN-r8J65pd_-zQ&oe=642B5FF1");
+    background-size: cover;
+    height: 600px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+
+footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-top: 1px dotted black;
+    
+}
+
